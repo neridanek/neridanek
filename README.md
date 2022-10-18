@@ -5,7 +5,7 @@ Self-taught developer from Poznań. I currently work as frontend developer at In
 Personal project I'm currently working on : https://github.com/neridanek/fullstack-ecommerce <br/>
 (You can check the readme and give me a review)
 
-Where you'll find me : https://www.linkedin.com/in/wiktor-nejman-291233239/
+Where you'll find me : https://www.linkedin.com/in/wiktornejman01/
 
 
 <!--
