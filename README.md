@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Wiktor 👋
+
+Self-taught developer from Poznań.I am currently frontend developer at Inwebit poznan.Working on foreign project including technologies as React,Typescript and Rest Api.I am aspiring to work as fullstack developer with Node.js/Express.js.I am open to learn fresh technologies and looking for company which give me a opportunity to use them in commercial projects.
+
+Personal project I'm currently working on : https://github.com/neridanek/fullstack-ecommerce
+
+Where you'll find me : https://www.linkedin.com/in/wiktor-nejman-291233239/
+
 
 <!--
 **neridanek/neridanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
