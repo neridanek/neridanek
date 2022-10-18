@@ -2,7 +2,8 @@
 
 Self-taught developer from Poznań.I am currently frontend developer at Inwebit Poznań.Working on foreign project including technologies as React,Typescript and Rest Api.I am aspiring to work as fullstack developer with Node.js/Express.js.I am open to learn fresh technologies and looking for company which give me a opportunity to use them in commercial projects.
 
-Personal project I'm currently working on : https://github.com/neridanek/fullstack-ecommerce (You can check the readme and give me a review)
+Personal project I'm currently working on : https://github.com/neridanek/fullstack-ecommerce
+(You can check the readme and give me a review)
 
 Where you'll find me : https://www.linkedin.com/in/wiktor-nejman-291233239/
 
