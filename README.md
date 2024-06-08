@@ -1,9 +1,7 @@
 ### Hi I'm Wiktor 👋
 
-Self-taught developer from Poznań. Working on foreign project including technologies as React, Typescript and REST API. I am aspiring to work as Backend/Cloud developer. I am open to learn leading-edge technologies also looking for company that would give me a opportunity to use them in commercial projects.
-
+Self-taught developer from Poznań. Worked and still working as Java Developer in some companies.I have commercial experience also in react/mobiles. After hours learning DevOps/Cloud Engineering.
 Where you'll find me : https://www.linkedin.com/in/wiktornejman01/
-
 
 <!--
 **neridanek/neridanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
